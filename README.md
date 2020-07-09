@@ -1,16 +1,18 @@
-### Hi there 👋
+```
+$ cat /etc/issue
 
-<!--
-**wilsonvargas/wilsonvargas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+/  \    /  \__|  |   __________   ____  
+\   \/\/   /  |  |  /  ___/  _ \ /    \ 
+ \        /|  |  |__\___ (  <_> )   |  \
+  \__/\  / |__|____/____  >____/|___|  /
+       \/               \/           \/
 
-Here are some ideas to get you started:
+$ uname -a
+Human wilson-vargas  #1 SMP PREEMPT RT 23 Dec ???? 14:17:56 +0000 x86_64 HE/Him
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+$ cat /etc/profile
+DOMAIN=wilsonvargas.net
+GITHUB=wilsonvargas
+TWITTER=Wilson_VargasM
+SO=wilsonvargas
+```
